@@ -1,4 +1,4 @@
-<img width="1900" height="907" alt="pc4" src="https://github.com/user-attachments/assets/e8336ac4-3559-4e55-8ecf-c971a4c81238" /># NPO_Website
+
 WEDE 5020 part 2 
 ## Student Information
 - **Name:** Pembleton Phiri  
