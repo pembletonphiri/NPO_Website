@@ -77,6 +77,9 @@ The website is designed to highlight the mission of supporting individuals in un
 - Updated donation form with new payment method options 
 ---
 ### References
+Refsnes Data, 1998. W3Schools. [App]. Available at: https://www.w3schools.com/ [Accessed 26 September 2025].
+The Independent Institute of Education (IIE), 2025. Web Development Introduction [WEDE5020 Module Manual Guide]. The Independent Institute of Education: Unpublished.
+
 
 
 
