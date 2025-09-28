@@ -52,6 +52,7 @@ The website is designed to highlight the mission of supporting individuals in un
 - gallery <img width="1905" height="901" alt="Screenshot 2025-09-28 202009" src="https://github.com/user-attachments/assets/334074a3-f66e-43eb-abca-922024092908" />
 - donate <img width="1900" height="908" alt="Screenshot 2025-09-28 202033" src="https://github.com/user-attachments/assets/4b04e998-2c50-418a-990b-40e0e78119be" />
 - contact<img width="1913" height="905" alt="pc5" src="https://github.com/user-attachments/assets/228d257e-6c85-40b6-886c-95ecc3c72051" />
+
 ### Tablet view
 - homepage <img width="617" height="815" alt="tablet1" src="https://github.com/user-attachments/assets/d78c87d5-0a24-412b-b6d0-373c2de46c34" />
 - about us <img width="603" height="807" alt="tablet2" src="https://github.com/user-attachments/assets/d3eb3b6c-b99d-40dc-b719-0de67b357f7b" />
@@ -75,6 +76,7 @@ The website is designed to highlight the mission of supporting individuals in un
 ### Version 1.3
 - Updated donation form with new payment method options 
 ---
+### References
 
 
 
