@@ -710,8 +710,8 @@ p {
     }
     
     .nav-menu {
-        flex-direction: column;
-        gap: 0.5rem;
+        flex-direction: row;
+        gap: 0rem;
         text-align: center;
     }
     
