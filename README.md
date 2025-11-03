@@ -1,5 +1,5 @@
 
-WEDE 5020 part 2 
+WEDE 5020 POE 
 ## Student Information
 - **Name:** Pembleton Phiri  
 - **Project Type:** Non-Profit Organization Website
@@ -23,7 +23,8 @@ The website is designed to highlight the mission of supporting individuals in un
 ### Design & Theme
 - Minimalistic **green/earthy color palette**  
 - Consistent navigation and footer across all pages  
-- Mobile-first responsive design  
+- Mobile-first responsive design
+- interactive JavaScript enhancements
 
 ### Pages Included
 1. **Home Page (`index.html`)**
@@ -74,7 +75,15 @@ The website is designed to highlight the mission of supporting individuals in un
 - Added hover effects on gallery images for better interactions.  
 
 ### Version 1.3
-- Updated donation form with new payment method options 
+- Updated donation form with new payment method options
+
+## Version 2.0 latest version of website additions
+- SEO Optimization, comprehensive meta descriptions and keywords, open Graph tags for social media
+- Welcome Alert, friendly greeting message on first visit, uses sessionStorage shows once per session
+-  Gallery Enhancements added Lightbox Feature: Click images to view full-size with keyboard navigation
+-  Dynamic Search: Real-time filtering of clothing items 
+-  Form Validation & Functionality, Donation Form: Full validation (name, email, phone, amount, payment method) contact Form: Validation + mailto functionality for direct email control, Clear error messages and success confirmations
+-  Added a interactive map
 ---
 ### References
 Refsnes Data, 1998. W3Schools. [App]. Available at: https://www.w3schools.com/ [Accessed 26 September 2025].
